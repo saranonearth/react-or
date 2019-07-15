@@ -1,0 +1,11 @@
+{
+  "name": "react-or",
+  "version": "1.0.0",
+  "description": "A simple nodejs utility CLI application to automatically setup a create-react-app and a Git-Repo for a project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "saranonearth",
+  "license": "ISC"
+}
