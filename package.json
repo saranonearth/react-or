@@ -1,0 +1,20 @@
+{
+  "name": "react-or",
+  "version": "1.0.0",
+  "description": "A simple nodejs utility CLI application to automatically setup a create-react-app and a Git-Repo for a project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "saranonearth",
+  "license": "ISC",
+  "dependencies": {
+    "@octokit/rest": "^16.28.4",
+    "chalk": "^2.4.2",
+    "clui": "^0.3.6",
+    "configstore": "^5.0.0",
+    "figlet": "^1.2.3",
+    "inquirer": "^6.5.0",
+    "simple-git": "^1.121.0"
+  }
+}
